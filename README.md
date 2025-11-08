@@ -2,6 +2,7 @@
 ```
 const Vrinda = {
   name: "Vrinda Joshi",
+  age: 18,
   role: "Systems Design Engineering Student @ University of Waterloo",
   occupiedBy: "building, designing, and learning",
   interests: ["full-stack dev", "ui/ux", "agile workflows", "tech for social good"],
