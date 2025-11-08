@@ -1,26 +1,22 @@
 
 ```
-{
-    name: "Vrinda Joshi",
-    age: 18,
-    city: "Waterloo, Ontario",
-    occupied by: "building, designing, and learning",
-    school: "University of Waterloo",
-    major: "Systems Design Engineering",
-    goals: [
-        "work in a fast-paced tech company/startup",
-        "contribute to open source, and tech for social good",
-        "work in and travel different parts of the world"
-    ]
-    hobbies: [
-        "lifting",
-        "performing music",
-    ],
-    currently_learning: [
-        "Django + GraphQL",
-        "accessible design"
-    ]
-}
+const Vrinda = {
+  name: "Vrinda Joshi",
+  role: "Systems Design Engineering Student @ University of Waterloo",
+  occupiedBy: "building, designing, and learning",
+  interests: ["Web Dev", "UI/UX", "Agile Workflows", "Tech for Social Good"],
+  goals: [
+    "Work in a fast-paced startup",
+    "Contribute to open source",
+    "Travel the world while building impactful tech"
+  ],
+  skills: ["React", "TypeScript", "Figma", "Python", "Node.js"],
+  currentlyLearning: ["React Native", "Product Management", "Accessible Design"],
+  hobbies: ["Lifting", "Hiking", "Performing in Band"],
+  funFact: "Once organized a coding workshop for 25 middle schoolers after a last-minute venue issue!",
+  quote: "Surround yourself with people who lift you higher."
+};
+
 ```
 <div align="center">
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/></code>
