@@ -12,7 +12,7 @@ const Vrinda = {
     "travel the world while building impactful tech"
   ],
   currentlyLearning: ["Django + GraphQL", "accessible design"],
-  hobbies: ["lifting", "performing music"],
+  hobbies: ["lifting", "swimming", "performing music"],
 };
 
 ```
