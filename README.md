@@ -4,17 +4,14 @@ const Vrinda = {
   name: "Vrinda Joshi",
   role: "Systems Design Engineering Student @ University of Waterloo",
   occupiedBy: "building, designing, and learning",
-  interests: ["Web Dev", "UI/UX", "Agile Workflows", "Tech for Social Good"],
+  interests: ["full-stack dev", "ui/ux", "agile workflows", "tech for social good"],
   goals: [
-    "Work in a fast-paced startup",
-    "Contribute to open source",
-    "Travel the world while building impactful tech"
+    "work in a fast-paced startup",
+    "contribute to open source",
+    "travel the world while building impactful tech"
   ],
-  skills: ["React", "TypeScript", "Figma", "Python", "Node.js"],
-  currentlyLearning: ["React Native", "Product Management", "Accessible Design"],
-  hobbies: ["Lifting", "Hiking", "Performing in Band"],
-  funFact: "Once organized a coding workshop for 25 middle schoolers after a last-minute venue issue!",
-  quote: "Surround yourself with people who lift you higher."
+  currentlyLearning: ["Django + GraphQL", "accessible design"],
+  hobbies: ["lifting", "performing music"],
 };
 
 ```
