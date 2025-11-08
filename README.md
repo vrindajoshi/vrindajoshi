@@ -11,22 +11,13 @@
         "work in a fast-paced tech company/startup",
         "contribute to open source, and tech for social good",
         "work in and travel different parts of the world"
-
     ]
-    interests: [
-        "web development",
-        "UI/UX design",
-        "agile workflows",
-        "tech for social good"
-    ],
     hobbies: [
         "lifting",
-        "hiking",
-        "performing in band"
+        "performing music",
     ],
     currently_learning: [
         "Django + GraphQL",
-        "product management fundamentals",
         "accessible design"
     ]
 }
