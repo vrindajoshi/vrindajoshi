@@ -8,8 +8,7 @@ const Vrinda = {
   interests: ["full-stack dev", "ui/ux", "agile workflows", "tech for social good"],
   goals: [
     "work in a fast-paced startup",
-    "contribute to open source",
-    "travel the world while building impactful tech"
+    "contribute to more open source projects!",
   ],
   currentlyLearning: ["Django + GraphQL", "accessible design"],
   hobbies: ["lifting", "swimming", "performing music"],
