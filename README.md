@@ -6,7 +6,6 @@ const Vrinda = {
   role: "Systems Design Engineering Student @ University of Waterloo",
   occupiedBy: "building, designing, and learning",
   interests: ["full-stack dev", "ui/ux", "agile workflows", "tech for social good"],
-  currentlyLearning: ["Django + GraphQL", "accessible design"],
 };
 
 ```
