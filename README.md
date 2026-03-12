@@ -3,12 +3,13 @@
 const Vrinda = {
   name: "Vrinda Joshi",
   age: 18,
-  role: "Systems Design Engineering Student @ University of Waterloo",
+  currently: "improving agentic CX @ Voiceflow",
+  major: "Systems Design Engineering Student @ University of Waterloo",
   occupiedBy: "building, designing, and learning",
   interests: ["full-stack dev", "ui/ux", "agile workflows", "tech for social good"],
 };
-
 ```
+<!---
 <div >
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
@@ -35,7 +36,7 @@ const Vrinda = {
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" title="Pandas"/></code>
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swift.png" alt="Swift" title="Swift"/></code>
 </div>
-
+-->
 
 <!--
 **vrindajoshi/vrindajoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
