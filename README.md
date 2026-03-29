@@ -8,7 +8,8 @@ const Vrinda = {
   occupiedBy: "building, designing, and learning",
   interests: ["full-stack dev", "ui/ux", "agile workflows", "tech for social good"],
 };
-```
+``` 
+![](https://komarev.com/ghpvc/?vrindajoshi&color=lightgrey&style=pixel)
 <!---
 <div >
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
