@@ -3,7 +3,7 @@
 const Vrinda = {
   name: "Vrinda Joshi",
   age: 18,
-  currently: "product and CX intern @ Voiceflow",
+  currently: "Product and CX Intern @ Voiceflow",
   major: "Systems Design Engineering @ University of Waterloo",
   occupiedBy: "building and learning",
   interests: ["full-stack dev", "product management", "tech for social good"],
