@@ -3,10 +3,10 @@
 const Vrinda = {
   name: "Vrinda Joshi",
   age: 18,
-  currently: "improving agentic CX @ Voiceflow",
-  major: "Systems Design Engineering Student @ University of Waterloo",
-  occupiedBy: "building, designing, and learning",
-  interests: ["full-stack dev", "ui/ux", "agile workflows", "tech for social good"],
+  currently: "product and CX intern @ Voiceflow",
+  major: "Systems Design Engineering @ University of Waterloo",
+  occupiedBy: "building and learning",
+  interests: ["full-stack dev", "product management", "tech for social good"],
 };
 ``` 
 ![](https://komarev.com/ghpvc/?vrindajoshi&color=lightgrey&style=pixel)
