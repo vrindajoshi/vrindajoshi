@@ -2,11 +2,11 @@
 ```
 const Vrinda = {
   name: "Vrinda Joshi",
-  age: 18,
-  currently: "Product and CX Intern @ Voiceflow",
+  age: 19,
+  currently: "Incoming Product Manager @ Finta",
   major: "Systems Design Engineering @ University of Waterloo",
-  occupiedBy: "building and learning",
-  interests: ["full-stack dev", "product management", "tech for social good"],
+  occupiedBy: "Building and Learning",
+  interests: ["Product Management", "Tech for Social Good", "Autonomous Systems],
 };
 ``` 
 ![](https://komarev.com/ghpvc/?vrindajoshi&color=lightgrey&style=pixel)
