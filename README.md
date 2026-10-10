@@ -3,10 +3,8 @@
 const Vrinda = {
   name: "Vrinda Joshi",
   age: 19,
-  currently: "Incoming PM @ Finta",
+  currently: "Product @ Finta",
   major: "Systems Design Engineering @ University of Waterloo",
-  occupiedBy: ["Building, "Learning", "Running"],
-  interests: ["Product Management", "Tech for Social Good", "Autonomous Systems"],
 };
 ``` 
 ![](https://komarev.com/ghpvc/?vrindajoshi&color=lightgrey&style=pixel)
