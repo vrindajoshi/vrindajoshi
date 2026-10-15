@@ -4,7 +4,7 @@ const Vrinda = {
   name: "Vrinda Joshi",
   age: 19,
   currently: "Product @ Finta",
-  major: "Systems Design Engineering @ University of Waterloo",
+  studying: "Systems Design Engineering @ University of Waterloo",
 };
 ``` 
 ![](https://komarev.com/ghpvc/?vrindajoshi&color=lightgrey&style=pixel)
